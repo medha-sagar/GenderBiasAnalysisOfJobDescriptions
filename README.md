@@ -13,23 +13,23 @@ The goal is to analyze job postings to:
   
 ### Data
 
-- Source: [!Link to Data](https://www.kaggle.com/c/data-science-for-good-city-of-los-angeles/data)
+- Source: [Link to Data](https://www.kaggle.com/c/data-science-for-good-city-of-los-angeles/data)
 
-Terms of use: [!Link to Terms Of Use](https://www.kaggle.com/c/data-science-for-good-city-of-los-angeles/rules)
+Terms of use: [Link to Terms Of Use](https://www.kaggle.com/c/data-science-for-good-city-of-los-angeles/rules)
 
 How to obtain the data?
-1. Go to the [!Kaggle Competition]()
+1. Go to the [Kaggle Competition]()
 2. Accept the rules of the competition
 3. Place the the downloaded files into the data directory
 4. Replace all whitespaces in the folder with '_'
 
 ### Packages
 
-- [!numpy](https://numpy.org/)
-- [!pandas](https://pandas.pydata.org/)
-- [!matplotlib](https://matplotlib.org/)
-- [!requests](https://requests.readthedocs.io/en/master/)
-- [!nltk](https://www.nltk.org)
+- [numpy](https://numpy.org/)
+- [pandas](https://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [requests](https://requests.readthedocs.io/en/master/)
+- [nltk](https://www.nltk.org)
 
 ### Files
 
