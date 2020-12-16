@@ -33,7 +33,7 @@ How to obtain the data?
 
 ### Files
 
-- FinalReport.ipynb : Final Code with Analysis
+- ProjectReport.ipynb : Final Code with Analysis
 - /data: Directory containing all the data
 - /figures: Directory comtaining all the figures
 
